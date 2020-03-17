@@ -1,10 +1,12 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: Teaching Assistant.
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+CSE 111. UC Merced. Fall 2018. <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Database Systems.
 
-Organize your courses by years, topics, or universities, however you like!
+CPRE 419. Iowa State University. Spring 2018. <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Software Tools for Large Scale Data Analysis.
+
+SE 339. Iowa State University. Spring and Fall 2017. <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Software Architecture and Design.

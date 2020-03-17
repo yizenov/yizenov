@@ -1,23 +1,29 @@
 ---
 layout: about
 permalink: /
-title: <strong>Your</strong> Name
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+title: <strong>Yesdaulet</strong> Izenov
+description: University of California Merced. Database Research Group.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: photo_my.png
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>S&E 2 Bldg, RM 313</p>
+    <p>5200 North Lake Rd.</p>
+    <p>Merced, CA 95348</p>
 
 news: true
 social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Research focus is in `database systems` and `machine learning`. Special topics include query optimization, cardinality estimation, join operator algorithms and plan enumeration.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+-----------------
+Looking for Summer Internship 2020 in: <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `query optimization` and `machine learning`.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+-----------------
+Second-year PhD student <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [EECS Department](https://eecs.ucmerced.edu/) at [UC Merced](https://www.ucmerced.edu/) <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `Merced, California, USA` <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Supervised by [Florin Rusu](https://faculty.ucmerced.edu/frusu/)
+
+Master's Degree <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Computer Engineering](https://www.ece.iastate.edu/) at [Iowa State University](https://www.iastate.edu/) <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `Ames, Iowa, USA` <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Supervised by [Srikanta Tirthapura](https://www.ece.iastate.edu/snt/)
+
+Bachelor's Degree <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Information Systems at [International IT University](https://www.iitu.kz/en/) <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `Almaty, Kazakhstan`
